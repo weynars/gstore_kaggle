@@ -5,17 +5,17 @@
 Based on https://drivendata.github.io/cookiecutter-data-science/ template
 
 ├───data <br>
-│   ├───external
-│   ├───interim
-│   ├───processed
-│   └───raw
-├───models
-├───notebooks
-├───references
-├───reports
-│   └───figures
-└───src
-    ├───data
-    ├───features
-    ├───models
-    └───visualization
+│   ├───external <br>
+│   ├───interim <br>
+│   ├───processed <br>
+│   └───raw <br>
+├───models <br>
+├───notebooks <br>
+├───references <br>
+├───reports <br>
+│   └───figures <br>
+└───src <br>
+    ├───data <br>
+    ├───features <br>
+    ├───models <br>
+    └───visualization <br>
