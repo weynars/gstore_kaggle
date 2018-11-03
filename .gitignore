@@ -104,8 +104,11 @@ venv.bak/
 .mypy_cache/
 
 # exclude data from source control by default
-/data/
+data/raw/*.csv
 
 # Mac OS-specific storage files
 .DS_Store
+
+#Others
 activate_env.cmd
+
