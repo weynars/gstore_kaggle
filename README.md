@@ -2,20 +2,26 @@
 
 ## Project Structure:
 
-Based on https://drivendata.github.io/cookiecutter-data-science/ template
+The following project structure was used: <br>
 
-├───data <br>
-│   ├───external <br>
-│   ├───interim <br>
-│   ├───processed <br>
-│   └───raw <br>
-├───models <br>
-├───notebooks <br>
-├───references <br>
-├───reports <br>
-│   └───figures <br>
-└───src <br>
-    ├───data <br>
-    ├───features <br>
-    ├───models <br>
-    └───visualization <br>
+<pre>
+├───data
+│   ├───external
+│   ├───interim
+│   ├───processed
+│   └───raw
+├───models
+├───notebooks
+├───references
+├───reports
+│   └───figures
+└───src
+    ├───data
+    ├───features
+    ├───models
+    └───visualization
+</pre>
+
+Based on:<br>
+https://drivendata.github.io/cookiecutter-data-science/ <br>
+https://towardsdatascience.com/structure-and-automated-workflow-for-a-machine-learning-project-2fa30d661c1e <br>
